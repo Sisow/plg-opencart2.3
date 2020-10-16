@@ -13,7 +13,6 @@
 - Currency / Value  
 
 ## [5.4.1] - 2020-06-15
-###   
 - Capayble -> In3  
 
 ### Fixed  
@@ -64,7 +63,6 @@
 - Gebruiker aanroepen returnUrl terugzetten status  
 
 ## [4.8.0] - 2017-08-18
-###   
 - Afterpay  
 
 ## [4.7.4] - 2017-08-03
@@ -117,7 +115,6 @@
 - Prefix Overboeking  
 
 ## [4.2.2] - 2015-06-26
-###   
 - Focum Achteraf Betalen  
 
 ## [4.2.1] - 2015-06-24
